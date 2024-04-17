@@ -30,4 +30,3 @@ The creation of a knowledge graph linking food and health represents a significa
 
 ---
 
-This README has been optimized with relevant SEO terms and emojis to enhance discoverability and engagement. Feel free to customize it further to suit your project's specific needs and goals.
